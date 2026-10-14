@@ -1,0 +1,22 @@
+{
+  "name": "majed-davinci",
+  "version": "1.0.0",
+  "description": "DaVinci Resolve Studio add-on for the majed-video plugin — builds an editable vertical timeline (video, graphics and Arabic captions each on its own track). Requires majed-video installed.",
+  "author": {
+    "name": "Majed Alzaabi",
+    "url": "https://github.com/majedphotos"
+  },
+  "homepage": "https://github.com/majedphotos/majed-davinci",
+  "license": "MIT",
+  "keywords": [
+    "davinci-resolve",
+    "video",
+    "arabic",
+    "captions",
+    "reels"
+  ],
+  "repository": "https://github.com/majedphotos/majed-davinci",
+  "skills": [
+    "./"
+  ]
+}
